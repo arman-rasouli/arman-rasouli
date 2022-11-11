@@ -1,6 +1,9 @@
 
 
-🌱 I’m currently learning Javascript, React<br>💬 Ask me about React
+🌱 I’m currently learning Javascript, React<br>💬 Ask me about React<br>
+📫 How to reach me arman.rasouli79@gmail.com
+
+
 
 
 ## 🌐 Socials:
